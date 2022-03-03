@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BarryAllen98
 - 👀 I’m interested in research and development.
 - 🌱 I’m currently working in pvt companey.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on IoT, AI and ML.
 - 📫 How to reach me ...
 
 <!---
